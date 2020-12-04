@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1607051747910,
+  "index": "/dont-sleep/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/dont-sleep/favicon.ico",
+        "/dont-sleep/index.html",
+        "/dont-sleep/main-es2015.fb5a7f588ea3bc47c299.js",
+        "/dont-sleep/main-es5.fb5a7f588ea3bc47c299.js",
+        "/dont-sleep/manifest.webmanifest",
+        "/dont-sleep/polyfills-es2015.ffa9bb4e015925544f91.js",
+        "/dont-sleep/polyfills-es5.44547b4d4a23c72d0f9c.js",
+        "/dont-sleep/runtime-es2015.cdfb0ddb511f65fdc0a0.js",
+        "/dont-sleep/runtime-es5.cdfb0ddb511f65fdc0a0.js",
+        "/dont-sleep/styles.ce437872489324133743.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/dont-sleep/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+        "/dont-sleep/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+        "/dont-sleep/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "/dont-sleep/MaterialIcons-Regular.e79bfd88537def476913.eot",
+        "/dont-sleep/assets/icons/icon-128x128.png",
+        "/dont-sleep/assets/icons/icon-144x144.png",
+        "/dont-sleep/assets/icons/icon-152x152.png",
+        "/dont-sleep/assets/icons/icon-192x192.png",
+        "/dont-sleep/assets/icons/icon-384x384.png",
+        "/dont-sleep/assets/icons/icon-512x512.png",
+        "/dont-sleep/assets/icons/icon-72x72.png",
+        "/dont-sleep/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/dont-sleep/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/dont-sleep/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/dont-sleep/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/dont-sleep/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/dont-sleep/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/dont-sleep/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/dont-sleep/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/dont-sleep/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/dont-sleep/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/dont-sleep/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/dont-sleep/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/dont-sleep/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/dont-sleep/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/dont-sleep/index.html": "07bd2c0a6842eb93fc957a57a29320bf1681b77e",
+    "/dont-sleep/main-es2015.fb5a7f588ea3bc47c299.js": "55c06bbae176a6e1b09a394a82daaf18ff5f8085",
+    "/dont-sleep/main-es5.fb5a7f588ea3bc47c299.js": "8070a2b01826df648bf0dae4f41c1bd9de97d1d0",
+    "/dont-sleep/manifest.webmanifest": "1e51929e9c61b1296c02f90b62f921662fb9bb65",
+    "/dont-sleep/polyfills-es2015.ffa9bb4e015925544f91.js": "79b2ff5ba292ae9e56f0b43982b9e76d9ddcf285",
+    "/dont-sleep/polyfills-es5.44547b4d4a23c72d0f9c.js": "529614f798f0a342b63b1229894f3c8b632fa4a3",
+    "/dont-sleep/runtime-es2015.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/dont-sleep/runtime-es5.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/dont-sleep/styles.ce437872489324133743.css": "c3819add9b49d82e0856206fc70e307bd5aecc18"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
